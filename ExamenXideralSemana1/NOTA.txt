@@ -1,0 +1,2 @@
+la version normal implementa polimorfismo + singleton
+la version llamda V1 implementa polimorfismo + clases abstractas + interfaces + singleton + inyección de dependencias
